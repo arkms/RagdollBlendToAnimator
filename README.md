@@ -8,12 +8,15 @@ Only work with humanoid animators.
 It has two modes, with adjusting position and rotation when blending back to animation according to forward of the ragdoll or without adjust the position and rotation is the same of the current root of the animator. See gifs to see differences.
 
 No adjust
-![](gitFiles/HitRagdoll_notAdjust.gif)  
+
+![No adjust](gitFiles/HitRagdoll_notAdjust.gif)  
+
 
 With adjust
-![](gitFiles/HitRagdoll_WithAdjust.gif) 
+
+![With adjust](gitFiles/HitRagdoll_WithAdjust.gif) 
 
 
 ## License
 The MIT License (MIT) 
-Copyright (c) 2020 Arkms
+Copyright (c) 2023 Arkms
